@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'GhostMansion'
-include('lib')
+include('main')
