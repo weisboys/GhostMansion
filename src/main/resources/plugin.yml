@@ -1,0 +1,8 @@
+name: GhostMansion
+version: 1.0
+main: me.weisboys.ghostmansion.GhostMansion
+api-version: 1.13
+commands:
+    ghostmansion:
+        description: GhostMansion command
+        usage: /<command>
